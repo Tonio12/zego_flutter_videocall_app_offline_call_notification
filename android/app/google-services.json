@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21927173182",
+    "project_id": "duochat-4859c",
+    "storage_bucket": "duochat-4859c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21927173182:android:5ed6d75915683b3bccc56f",
+        "android_client_info": {
+          "package_name": "com.example.duochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-gK8on5AI3bT0GgCzkTYRyKItvDWn8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21927173182:android:950cea2e955e70a3ccc56f",
+        "android_client_info": {
+          "package_name": "com.zegocloud.zegouikit.example.prebuiltcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-gK8on5AI3bT0GgCzkTYRyKItvDWn8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
