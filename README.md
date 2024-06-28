@@ -1,16 +1,13 @@
-# duochat
+# Duochat
 
-A new Flutter project.
+Duochat is a flutter video calling application created with <a  href=https://www.zegocloud.com/docs/uikit/callkit-flutter/quick-start-(with-call-invitation)>Zegocloud</a>  with offline call notification capabilities implemented with  [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging?hl=en&authuser=0). 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Before running this project you need to [Watch the video on YouTube]([https://youtu.be/YOUTUBE_VIDEO_ID](https://youtu.be/FkFvQ0SaT1I)). Setup and initialise firebase in your project. 
+You would also need to sign in to (Zegocloud)[https://console.zegocloud.com/] to obtain appId and AppSign replace the values in the login_service.dart file  under lib folder. 
+If you need help with this step you can simply for this (tutorial)[https://www.zegocloud.com/docs/admin-console/create-projects?platform=all&language=all].
 
-A few resources to get you started if this is your first Flutter project:
+## Resources
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was created  using Zegocloud quick start with call inivitation (Guide)[https://www.zegocloud.com/docs/uikit/callkit-flutter/quick-start-(with-call-invitation)]
