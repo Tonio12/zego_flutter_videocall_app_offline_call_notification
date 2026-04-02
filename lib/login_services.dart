@@ -22,9 +22,9 @@ Future<void> login({
 /// on App's user login
 void onUserLogin() {
   ZegoUIKitPrebuiltCallInvitationService().init(
-      appID: 1850635844 /*input your AppID*/,
+      appID: 123456 /*input your AppID*/,
       appSign:
-          '661eb5ff9892e711abfce2567accfe2ced97321fb0963bc361c633a6f351e691' /*input your AppSign*/,
+          'dsalfnal;dsjfladsjfkasudhfuiawhajsbkhsdafiasdhyr8392847912387' /*input your AppSign*/,
       userID: currentUser.id,
       userName: currentUser.name,
       plugins: [ZegoUIKitSignalingPlugin()],
